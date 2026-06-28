@@ -1,0 +1,3 @@
+# Python deps for the .claude/hooks reflexes + the onboarding engine (system python3, no venv).
+# reaper.py (a hook) and .claude/skills/onboarding/apply.py need PyYAML; every other hook is stdlib-only.
+PyYAML
